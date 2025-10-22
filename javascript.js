@@ -1140,4 +1140,7 @@ window.s7_data = {
 	}
 }
 
-import './snippet.js';
+console.log(1998);
+
+
+// import './snippet.js';
